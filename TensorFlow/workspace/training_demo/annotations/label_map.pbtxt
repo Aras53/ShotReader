@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'shot'
+}
+
+item {
+    id: 2
+    name: 'target'
+}
+
+item {
+    id: 3
+    name: 'center'
+}
+
+item {
+    id: 4
+    name: 'out'
+}
